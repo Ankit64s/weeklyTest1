@@ -1,0 +1,6 @@
+List of Items Used by Cricket Sports:
+1. Wicket
+2. Bat
+3. Ball
+4. Gloves
+5. Pads
